@@ -1,6 +1,6 @@
 # Feature todo list
 
-We want be support features before v1.0.0 version's todo list:
+Todo list of features we want to support before version v1.0.0:
 
 - request:
 
